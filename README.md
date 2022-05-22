@@ -1,4 +1,4 @@
-# Bakery Software - Invoice
+# Bakery Software - Invoice (Desktop Application)
 
 ## Login 
 <img width="245" alt="1  Login" src="https://user-images.githubusercontent.com/36742404/169705194-8181a17f-c4a2-4b95-b57f-f7a2f28a058f.PNG">
